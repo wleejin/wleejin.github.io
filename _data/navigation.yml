@@ -2,7 +2,7 @@
 main:
 
    - title: "CV"
-     url: /cv/
+     url: https://wleejin.github.io/files/wonjinlee_cv.pdf
     
    - title: "Research"
      url: /research/
