@@ -16,7 +16,7 @@ Washington University in St. Louis:
 ## Teaching Assistant
 
 Washington University in St. Louis:
-- Applied Econometrics, Fall 2020 [[Final project](https://github.com/wleejin/birthweight-smoking)]
+- Applied Econometrics, Fall 2020 [[Final project solution](https://github.com/wleejin/birthweight-smoking)]
 - Introduction to Econometrics with Writing, Spring 2019, Spring 2021
 
 Miami University:
