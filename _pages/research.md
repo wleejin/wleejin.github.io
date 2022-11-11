@@ -9,8 +9,7 @@ author_profile: true
 
 **Personal Bankruptcy and Entrepreneurial Financing**  
 Updated: Nov 2022  
-><img src="/images/fig1.pdf" width="400" height="400"><br/>
-><a href= "/images/fig1.pdf" target="_blank" >
+><img src="/images/fig1.jpg" width="400" height="400"><br/>
 
 **Household Wealth and Business Dynamics**  
 Updated: Aug 2021
