@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-**Personal Bankruptcy and Entrepreneurial Financing**  
+**Personal Bankruptcy, Entrepreneurial Financing, and the Economy**  
 Updated: Nov 2022  
 ><img src="/images/fig1.jpg" width="400" height="400"><br/>
 
