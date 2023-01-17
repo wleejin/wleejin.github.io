@@ -9,7 +9,7 @@ author_profile: true
 
 **Personal Bankruptcy, Entrepreneurial Financing, and the Economy**  
 Updated: Nov 2022  
-><img src="/images/fig_RKD.jpg" width="400" height="400"><br/>
+><img src="/images/fig_RKD.jpg" width="450" height="450"><br/>
 
 
 **Household Wealth and Business Dynamics**  
