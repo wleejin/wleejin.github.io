@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 ---
-Welcome to my website! I am a Ph.D. student in the Department of Economics at Washington University in St. Louis.
+Welcome to my website! I am an economics PhD candidate at Washington University in St. Louis. I'm interested in macroeconomics and applied microeconomics. My current research focuses on household bankruptcy and entrepreneurship.
+
