@@ -13,5 +13,3 @@ author_profile: true
 
 ## Quantitative Macroeconomics
 [Guerrieri and Lorenzoni (2017)](https://github.com/wleejin/credit-crunch) -  Endogenous grid method with Python's Numba (JIT compiler)
-
-## 
