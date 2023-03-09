@@ -12,5 +12,5 @@ author_profile: true
 ## Quantitative Macroeconomics
 - [Guerrieri and Lorenzoni (2017)](https://github.com/wleejin/credit-crunch) -  Endogenous grid method with Python's Numba (JIT compiler)
 
-## Data
-- Survey of Income and Program Participation (SIPP) Data: [Python code for cleaning SIPP data](https://github.com/wleejin/SIPP-cleaning), [Census' SIPP Data Files](https://www.nber.org/research/data/survey-income-and-program-participation-sipp)
+## Survey of Income and Program Participation (SIPP)
+-  [Python code for cleaning SIPP data](https://github.com/wleejin/SIPP-cleaning), [Census' SIPP Data Files](https://www.nber.org/research/data/survey-income-and-program-participation-sipp)
