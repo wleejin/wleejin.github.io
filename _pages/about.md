@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 ---
-Welcome to my website! I am an economics PhD candidate at Washington University in St. Louis. I'm interested in macroeconomics and applied microeconomics. My current research focuses on household bankruptcy and entrepreneurship using causal inference and structural modeling. You can find my CV [here](https://www.dropbox.com/s/weyzbcqp1l35kt8/wonjinlee_cv.pdf?dl=0).
+Welcome to my website! I am an economics PhD candidate at Washington University in St. Louis. I'm interested in macroeconomics and applied microeconomics. My current research focuses on household bankruptcy and entrepreneurship using causal inference and structural modeling. You can find my CV [here](https://www.dropbox.com/s/tb6mrczrpo9rwsv/wonjinlee_cv.pdf?dl=0).
 
