@@ -8,7 +8,7 @@ author_profile: true
 ## Working Papers
 
 **Personal Bankruptcy, Entrepreneurial Financing, and the Economy**  
-><img src="/images/fig_RKD.jpg" width="450" height="450"><br/>
+><img src="/images/fig_RKD.jpg" width="450" height="450">
 <details>
 	<summary>Abstract</summary>
 
