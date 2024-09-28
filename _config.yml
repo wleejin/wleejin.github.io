@@ -75,15 +75,15 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-TR9B7M88VK
 
 
 # Site Author
 author:
   name             : "Wonjin Lee"
   avatar           : "my-profile.jpg"
-  bio              : "Department of Economics, Washington University in St. Louis"
-  location         : "St. Louis, MO"
+  bio              : "Engineering Data Scientist, Boeing"
+  location         : "Seattle, WA"
   employer         :
   pubmed           : 
   googlescholar    : 
