@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Instructor
+University of Washington Bothell School of Business:
+- Managerial Economics, Spring 2025 [[Syllabus](https://wleejin.github.io/files/2025_Spring_BBUS310_syllabus.pdf)]
 
 Southern Illinois University Edwardsville:
 - Principles of Macroeconomics, Fall 2021 [[Syllabus](https://wleejin.github.io/files/2021_Fall_ECON111_syllabus.pdf)] [[Evaluation](https://wleejin.github.io/files/2021_Fall_ECON111_course_eval_final.pdf)]
