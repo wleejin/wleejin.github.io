@@ -7,6 +7,8 @@ author_profile: true
 
 ## Instructor
 University of Washington Bothell School of Business:
+- Managerial Economics, Winter 2027 [[Syllabus](https://wleejin.github.io/files/2025_Spring_BBUS310_syllabus.pdf)]
+- Introduction to Macroeconomics, Winter 2026 [[Syllabus](https://wleejin.github.io/files/2025_Spring_BBUS310_syllabus.pdf)]
 - Managerial Economics, Spring 2025 [[Syllabus](https://wleejin.github.io/files/2025_Spring_BBUS310_syllabus.pdf)]
 
 Southern Illinois University Edwardsville:
